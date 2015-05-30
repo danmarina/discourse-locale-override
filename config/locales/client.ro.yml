@@ -1,30 +1,34 @@
-ro:
-  composer:
-    create_topic: "Creaţi o discuţie" 
-    reply_placeholder: "Răspuns"
-  directory:
-    days_visited:
+--- 
+ro: 
+  composer: 
+    create_topic: "Creaţi o discuţie"
+    reply_placeholder: Răspuns
+  directory: 
+    days_visited: "days visited"
     filter_name: "filtru după nume"
-    likes_given: "Oferite"
-    likes_received: "Primite"
-    posts_read: "Citite"
-    title: 
-    topics_entered: "Create"
-    total_rows: "utilizatori"
-  filters:
-    top:
-      all_time:
-        title: "Toate"
-      daily:
-        title: "Astăzi"
-      weekly:
-        title: "Săptămâna aceasta"
-      yearly:
+    likes_given: Oferite
+    likes_received: Primite
+    posts_read: Citite
+    title: Utilizatori
+    topics_entered: Create
+    total_rows: utilizatori
+  filters: 
+    top: 
+      all: 
+        title: Toate
+      all_time: Toate
+      daily: 
+        title: Astăzi
+      monthly: 
         title: "Anul aceasta"
-  post:
-    reply:
-  topic_map:
-    participants_title:
-  views_lowercase: "vizualizări"
+      weekly: 
+        title: "Săptămâna aceasta"
+      yearly: 
+        title: "Anul aceasta"
   last_reply_lowercase: "ultimul răspuns"
-  users_lowercase: "utilizatori"
+  post: 
+    reply: Răspunde
+  topic_map: 
+    participants_title: participanti
+  users_lowercase: utilizatori
+  views_lowercase: vizualizări

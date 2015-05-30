@@ -1,16 +1,6 @@
 ro:
-  admin:
-    dashboard:
-      title: "Raport trafic"
-      uploads: "Incarcari de testare"
-    plugins:
-      installed: "Instalate"
-      name: "Nume"
-      version: "Versiune"
-      change_settings: "Schimba setarile"
-      title: "Plugins"
   composer:
-    create_topic: "Creaţi o discuţie"
+    create_topic: "Creaţi o discuţie" 
     reply_placeholder: "Răspuns"
   directory:
     days_visited:
@@ -18,7 +8,7 @@ ro:
     likes_given: "Oferite"
     likes_received: "Primite"
     posts_read: "Citite"
-    title:
+    title: 
     topics_entered: "Create"
     total_rows: "utilizatori"
   filters:
@@ -32,9 +22,9 @@ ro:
       yearly:
         title: "Anul aceasta"
   post:
-    reply: "Răspunde"
+    reply:
   topic_map:
-    participants_title: "ZZZZZZZZZZZZZZ"
+    participants_title:
   views_lowercase: "vizualizări"
   last_reply_lowercase: "ultimul răspuns"
   users_lowercase: "utilizatori"

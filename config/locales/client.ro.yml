@@ -2,23 +2,23 @@
 ro: 
   composer: 
     create_topic: "Creaţi o discuţie"
-    reply_placeholder: Răspuns
+    reply_placeholder: "Răspuns"
   directory: 
     days_visited: "days visited"
     filter_name: "filtru după nume"
-    likes_given: Oferite
-    likes_received: Primite
-    posts_read: Citite
-    title: Utilizatori
-    topics_entered: Create
-    total_rows: utilizatori
+    likes_given: "Oferite"
+    likes_received: "Primite"
+    posts_read: "Citite"
+    title: "Utilizatori"
+    topics_entered: "Create"
+    total_rows: "utilizatori"
   filters: 
     top: 
       all: 
-        title: Toate
-      all_time: Toate
+        title: "Toate"
+      all_time: "Toate"
       daily: 
-        title: Astăzi
+        title: "Astăzi"
       monthly: 
         title: "Anul aceasta"
       weekly: 
@@ -27,8 +27,8 @@ ro:
         title: "Anul aceasta"
   last_reply_lowercase: "ultimul răspuns"
   post: 
-    reply: Răspunde
+    reply: "Răspunde"
   topic_map: 
-    participants_title: participanti
-  users_lowercase: utilizatori
-  views_lowercase: vizualizări
+    participants_title: "participanti"
+  users_lowercase: "utilizatori"
+  views_lowercase: "vizualizări"
